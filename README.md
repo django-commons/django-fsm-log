@@ -224,7 +224,7 @@ pre-commit install
 
 ## Changelog
 
-## 6.0.0 (unreleased)
+## 6.0.0 (2026-11-09)
 
 - Check django compatibility for versions 5.2, 6.0 and 6.1
 - drop python check compatibility for python 3.10 and add python 3.15 to the test environments.
